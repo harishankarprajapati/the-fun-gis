@@ -143,6 +143,12 @@ input#exampleInputEmail1 {
   margin-left: 0px;
   margin-top: 0px;
 }
+.counter {
+  border: 1px solid #fff;
+  border-radius: 10px;
+  padding: 13px;
+  margin-bottom: 20px;
+}
 }
 
 @media screen and (max-height: 450px) {
