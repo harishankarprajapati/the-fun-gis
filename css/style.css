@@ -41,12 +41,17 @@
     color: #FFF;
     font-family: 'Inter';
     background: #FF3A3A;
-    padding: 20px 30px;
+    padding: 15px 35px;
     font-size: 20px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
     text-decoration: none;
+    border-radius: 0;
+}
+.sec-btn22:hover{
+    background: #FF3A3A;
+    color: #FFF;
 }
 
 .sec-btn {
@@ -359,7 +364,7 @@ input#exampleInputEmail1 {
     position: relative;
     z-index: 9999;
 }
-::placeholder{
+#sec-sub-i ::placeholder{
     color: #fff !important;
 }
 .sec-footer-bg{
@@ -406,4 +411,51 @@ font-weight: 400;
 line-height: normal;
 letter-spacing: -0.48px;
 text-transform: capitalize;
+}
+.sec-a-b-img{
+    width: 700px;
+    height: 400px;
+}
+img.sec-meet-img {
+    width: 100%;
+}
+.sec-fo-p{
+    padding-bottom: 20px;
+}
+.modal-content{
+background-color: #BBE2B7 !important;
+}
+#sec-pop-fo input , select#inputState{
+    border-radius: 0;
+    height: 45px;
+    background: #ffffff42;
+    border: 1px solid #fff;
+}
+#sec-pop-fo textarea{
+    border-radius: 0;
+    background: #ffffff42;
+    border: 1px solid #fff;
+}
+#sec-pop-fo ::placeholder{
+    color: #000;
+}
+.modal-title {
+    color:#fff;
+    font-family: "Oswald",Sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 1.2em;
+}
+.sec-blobb{
+    color: #000;
+font-family: 'Inter';
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 33.5px;
+}
+.sec-btn23 {
+    padding: 40px 0px 50px 0px;
+    text-align: center;
 }

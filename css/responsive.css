@@ -8,6 +8,82 @@
 }
 
 
+
+
+
+
+
+@media only screen and (max-width:767px){
+  .sec-main-head h3 {
+    color: #FFF;
+    font-family: 'Inter';
+    font-size: 32px;
+    padding: 20px 0px 0px 0px;
+  }
+  .sec-btn {
+    padding: 40px 0px 0px 0px;
+}
+  .sec-space-left-right {
+    padding: 0px 10px;
+}
+.sec-call-btn2 {
+  background: #FF3A3A;
+  padding: 10px 15px 10px 15px;
+  font-size: 9px;
+}
+.sec-dixp-head{
+  display: none;
+}
+  .sec-you-h {
+    color: #000;
+    font-family: 'Inter';
+    font-size: 25px;
+    padding-top: 20px;
+
+  }
+  .sec-padd-all {
+    padding: 30px 0px;
+  }
+  .two-sec-img {
+    margin-top: 20px;
+}
+.secvid-vid {
+  margin: auto;
+  padding: 20px 0px;
+}
+.sec-soft-hb {
+  font-size: 20px;
+}
+.sec-blobb {
+  font-size: 16px;
+  line-height: 27.5px;
+}
+  .sec-gall-main-n {
+    color: #000;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 20px;
+  }
+  .sec-logo-img{
+    width: 100%;
+  }
+  .img-comp-img.img-comp-overlay{
+    width: 138px !important;
+  }
+  .img-comp-slider {
+    top: 70px !important;
+        left: 115px !important;
+    }
+    .sec-a-b-img {
+      width: 270px;
+      height: 190px;
+    }
+    .sec-serv-bg {
+      margin-bottom: -48px;
+      padding-bottom: 83px;
+  }
+}
+
 @media screen and (max-height: 450px) {
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
