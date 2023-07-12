@@ -68,11 +68,11 @@
     width: 100%;
   }
   .img-comp-img.img-comp-overlay{
-    width: 138px !important;
+    width: 138px ;
   }
   .img-comp-slider {
     top: 70px !important;
-        left: 115px !important;
+        left: 115px;
     }
     .sec-a-b-img {
       width: 270px;
