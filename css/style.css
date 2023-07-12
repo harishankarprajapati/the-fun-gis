@@ -400,6 +400,8 @@ padding: 15px 20px;
 }
 .sec-call2{
     padding: 40px 0px;
+    display: flex;
+    justify-content: center;
 }
 .sec-copy{
     color: #FFF;
@@ -458,4 +460,8 @@ line-height: 33.5px;
 .sec-btn23 {
     padding: 40px 0px 50px 0px;
     text-align: center;
+}
+.secsub-ntn:hover{
+    color: #FF3A3A;
+    background-color: #FFf !important;
 }
