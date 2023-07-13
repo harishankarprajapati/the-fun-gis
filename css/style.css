@@ -110,7 +110,7 @@
 
 .sec-bgg-bl {
     background: #F2F2F2;
-    padding: 15px;
+    padding: 15px 25px;
 }
 
 .sec-soft-hb {
@@ -134,7 +134,7 @@
 }
 
 .sec-blog-1 {
-    padding-top: 20px;
+    padding-top: 50px;
 }
 
 .sec-galler-name-bg {
@@ -325,7 +325,7 @@ box-shadow: 0px 4px 20px 0px rgba(45, 102, 246, 0.20);
 .secsuvb-bg{
     border-radius: 5px;
 background: #FF3A3A;
-padding: 20px;
+padding: 30px 30px;
 margin: 0px 122px;
 }
 .sec-sub-h{
@@ -466,5 +466,8 @@ line-height: 33.5px;
     background-color: #FFf !important;
 }
 .sev-blog-ma{
-    margin-top: 30px;
+    margin-top: 60px;
+}
+.owl-carousel.owl-theme.owl-loaded.owl-drag {
+    padding-top: 40px;
 }
