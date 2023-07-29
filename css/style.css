@@ -269,6 +269,7 @@
 border: 1px solid var(--light-gray, #DEDEDE);
 background: var(--pure-white, #FFF);
 padding: 20px;
+height: 780px;
 }
 .sec-main-pp-v{
     color: var(--black-color, #292929);
@@ -470,4 +471,12 @@ line-height: 33.5px;
 }
 .owl-carousel.owl-theme.owl-loaded.owl-drag {
     padding-top: 40px;
+}
+
+@media only screen and (max-width:1199px){
+
+    .secvie-bgg{
+        height: auto;
+    }
+    
 }
