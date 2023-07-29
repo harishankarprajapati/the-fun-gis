@@ -198,7 +198,7 @@
     font-style: normal;
     font-weight: 700;
     line-height: 120%;
-    padding-top: 75px;
+    padding-top: 30px;
 }
 
 .sec-man-img {
@@ -207,6 +207,7 @@
 .imgstyle{
 border-radius: 10px;
     box-shadow: 0px 0px 10px 0px #dddddd;
+    width: 95%;
 }
 
 .sec-man-hh {
