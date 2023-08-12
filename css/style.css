@@ -285,6 +285,7 @@ height: 780px;
     font-weight: 600;
     line-height: 20px;
     text-transform: capitalize;
+    padding-top: 20px;
 }
 .sec-main-n-p{
     color: var(--black-color, #292929);
